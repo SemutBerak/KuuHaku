@@ -1,4 +1,3 @@
-# KuuHaku-
 <h1>KuuHaku', Discord Bots</h1>
 <p>Bot, hosted on: <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://glitch.com">Glitch</a> bot handler server and this bot can on <strong>24/7</strong>
 Prefix this Bot is <code>?</code>, but you can change the prefix according to what you want</p>
