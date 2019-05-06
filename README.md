@@ -22,3 +22,10 @@ Prefix this Bot is <code>?</code>, but you can change the prefix according to wh
 <a href="https://discordbots.org/bot/517305838348664833" >
   <img src="https://discordbots.org/api/widget/517305838348664833.svg" alt="KuuHaku'" />
 </a>
+<a href="https://discordbotlist.com/bots/517305838348664833">
+	<img 
+		width="380" 
+		height="140" 
+		src="https://discordbotlist.com/bots/517305838348664833/widget" 
+		alt="KuuHaku' stats on Discord Bot List">
+</a>
