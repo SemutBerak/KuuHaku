@@ -31,3 +31,6 @@ Prefix this Bot is <code>?</code>, but you can change the prefix according to wh
 </a>
 <a href="https://botsfordiscord.com/bots/517305838348664833" >
             <img src="https://botsfordiscord.com/api/bot/517305838348664833/widget" title="Visit KuuHaku' listed on Bots for Discord!" alt="KuuHaku''s Widget Failed to Load" /></a>
+<a href="https://divinediscordbots.com/bot/517305838348664833">
+  <img src="https://divinediscordbots.com/api/widget/517305838348664833.svg" alt="KuuHaku'"/>
+</a>
